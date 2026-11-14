@@ -1,29 +1,29 @@
-# Design 2 — Alimentation régulée 5 V
+# Design 2 â€” Alimentation rÃ©gulÃ©e 5 V
 
-## Présentation
+## PrÃ©sentation
 
-Ce projet Proteus illustre une alimentation composée d'un pont redresseur, de condensateurs de filtrage et d'un régulateur 7805. Le schéma prévoit des connecteurs d'entrée et de sortie. Les captures montrent également le routage et des aperçus 3D du circuit imprimé.
+Ce projet Proteus illustre une alimentation composÃ©e d'un pont redresseur, de condensateurs de filtrage et d'un rÃ©gulateur 7805. Le schÃ©ma prÃ©voit des connecteurs d'entrÃ©e et de sortie. Les captures montrent Ã©galement le routage et des aperÃ§us 3D du circuit imprimÃ©.
 
 ## Fichier du projet
 
-- `Design 2.pdsprj` — projet à ouvrir avec Proteus 8 Professional.
+- `Design 2.pdsprj` â€” projet Ã  ouvrir avec Proteus 8 Professional.
 
 ## Captures
 
-### Schéma sous ISIS
+### SchÃ©ma sous ISIS
 
-![Schéma électrique sous ISIS](ISIS.PNG)
+![SchÃ©ma Ã©lectrique sous ISIS](Design%202/ISIS.PNG)
 
-### Circuit imprimé
+### Circuit imprimÃ©
 
-![Conception du circuit imprimé](PCB%20Design.PNG)
+![Conception du circuit imprimÃ©](Design%202/PCB%20Design.PNG)
 
-![Routage dans ARES](ARES.PNG)
+![Routage dans ARES](Design%202/ARES.PNG)
 
-### Aperçus 3D
+### AperÃ§us 3D
 
-![Vue 3D du circuit imprimé](V3D.PNG)
+![Vue 3D du circuit imprimÃ©](Design%202/V3D.PNG)
 
-![Vue 3D du circuit imprimé - angle 2](V3D0.PNG)
+![Vue 3D du circuit imprimÃ© - angle 2](Design%202/V3D0.PNG)
 
-![Vue 3D du circuit imprimé - angle 3](V3D1.PNG)
+![Vue 3D du circuit imprimÃ© - angle 3](Design%202/V3D1.PNG)
