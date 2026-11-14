@@ -1,16 +1,16 @@
-# Design 3 â€” Montage Ã  microcontrÃ´leur PIC16F84A
+# Design 3 — Montage à microcontrôleur PIC16F84A
 
-## PrÃ©sentation
+## Présentation
 
-Ce projet Proteus est construit autour d'un microcontrÃ´leur PIC16F84A. Le dossier comprend le fichier projet et plusieurs captures du schÃ©ma et de sa conception dans Proteus.
+Ce projet Proteus est construit autour d'un microcontrôleur PIC16F84A. Le dossier comprend le fichier projet et plusieurs captures du schéma et de sa conception dans Proteus.
 
 ## Fichier du projet
 
-- `Design 3.pdsprj` â€” projet Ã  ouvrir avec Proteus 8 Professional.
+- `Design 3.pdsprj` — projet à ouvrir avec Proteus 8 Professional.
 
 ## Captures
 
-Les images ci-dessous prÃ©sentent les diffÃ©rentes captures disponibles pour ce design.
+Les images ci-dessous présentent les différentes captures disponibles pour ce design.
 
 ![Capture Proteus 123](Design%203/123.PNG)
 
