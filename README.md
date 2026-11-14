@@ -1,12 +1,23 @@
-# Conception CAO et PCB
+# Design 4 — Interface Arduino Uno et écran LCD
 
-Ce dépôt regroupe quatre projets réalisés avec Proteus 8 Professional. Chaque design est conservé dans sa propre branche afin de pouvoir le consulter indépendamment.
+## Présentation
 
-| Design | Description | Branche |
-| --- | --- | --- |
-| Design 1 | Réseau de résistances, schéma et réalisation du PCB | [design-1](https://github.com/Bejaoui-Fedi/CAD-and-PCB-Design/tree/design-1) |
-| Design 2 | Alimentation régulée autour d'un pont de diodes et d'un 7805 | [design-2](https://github.com/Bejaoui-Fedi/CAD-and-PCB-Design/tree/design-2) |
-| Design 3 | Montage autour d'un microcontrôleur PIC16F84A | [design-3](https://github.com/Bejaoui-Fedi/CAD-and-PCB-Design/tree/design-3) |
-| Design 4 | Interface Arduino Uno avec écran LCD | [design-4](https://github.com/Bejaoui-Fedi/CAD-and-PCB-Design/tree/design-4) |
+Ce projet Proteus relie une carte Arduino Uno à un écran LCD LM016L. Un potentiomètre est également présent dans le schéma. Les captures montrent le schéma, la carte et des vues de conception.
 
-Chaque branche contient le fichier projet `.pdsprj` et les captures d'écran correspondantes. Ouvrir le projet avec Proteus 8 Professional pour le modifier.
+## Fichier du projet
+
+- `Design 4.pdsprj` — projet à ouvrir avec Proteus 8 Professional.
+
+## Captures
+
+### Schéma
+
+![Schéma Arduino Uno et écran LCD](1.PNG)
+
+### Circuit imprimé et vues complémentaires
+
+![Conception du circuit imprimé](2.PNG)
+
+![Capture complémentaire 3](3.PNG)
+
+![Capture complémentaire 4](4.PNG)
