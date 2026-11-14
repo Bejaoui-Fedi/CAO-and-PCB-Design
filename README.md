@@ -1,12 +1,29 @@
-# Conception CAO et PCB
+# Design 2 — Alimentation régulée 5 V
 
-Ce dépôt regroupe quatre projets réalisés avec Proteus 8 Professional. Chaque design est conservé dans sa propre branche afin de pouvoir le consulter indépendamment.
+## Présentation
 
-| Design | Description | Branche |
-| --- | --- | --- |
-| Design 1 | Réseau de résistances, schéma et réalisation du PCB | [design-1](https://github.com/Bejaoui-Fedi/CAD-and-PCB-Design/tree/design-1) |
-| Design 2 | Alimentation régulée autour d'un pont de diodes et d'un 7805 | [design-2](https://github.com/Bejaoui-Fedi/CAD-and-PCB-Design/tree/design-2) |
-| Design 3 | Montage autour d'un microcontrôleur PIC16F84A | [design-3](https://github.com/Bejaoui-Fedi/CAD-and-PCB-Design/tree/design-3) |
-| Design 4 | Interface Arduino Uno avec écran LCD | [design-4](https://github.com/Bejaoui-Fedi/CAD-and-PCB-Design/tree/design-4) |
+Ce projet Proteus illustre une alimentation composée d'un pont redresseur, de condensateurs de filtrage et d'un régulateur 7805. Le schéma prévoit des connecteurs d'entrée et de sortie. Les captures montrent également le routage et des aperçus 3D du circuit imprimé.
 
-Chaque branche contient le fichier projet `.pdsprj` et les captures d'écran correspondantes. Ouvrir le projet avec Proteus 8 Professional pour le modifier.
+## Fichier du projet
+
+- `Design 2.pdsprj` — projet à ouvrir avec Proteus 8 Professional.
+
+## Captures
+
+### Schéma sous ISIS
+
+![Schéma électrique sous ISIS](ISIS.PNG)
+
+### Circuit imprimé
+
+![Conception du circuit imprimé](PCB%20Design.PNG)
+
+![Routage dans ARES](ARES.PNG)
+
+### Aperçus 3D
+
+![Vue 3D du circuit imprimé](V3D.PNG)
+
+![Vue 3D du circuit imprimé - angle 2](V3D0.PNG)
+
+![Vue 3D du circuit imprimé - angle 3](V3D1.PNG)
