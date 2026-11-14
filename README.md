@@ -1,25 +1,25 @@
-# Design 1 — Réseau de résistances
+# Design 1 â€” RÃ©seau de rÃ©sistances
 
-## Présentation
+## PrÃ©sentation
 
-Ce projet Proteus représente un réseau de cinq résistances de 10 kΩ : R1 et R5 sont placées en série sur les deux lignes d'entrée, tandis que R2, R3 et R4 relient ces deux lignes en parallèle. Le dossier contient le schéma, le projet Proteus et les vues du circuit imprimé.
+Ce projet Proteus reprÃ©sente un rÃ©seau de cinq rÃ©sistances de 10 kÎ© : R1 et R5 sont placÃ©es en sÃ©rie sur les deux lignes d'entrÃ©e, tandis que R2, R3 et R4 relient ces deux lignes en parallÃ¨le. Le dossier contient le schÃ©ma, le projet Proteus et les vues du circuit imprimÃ©.
 
 ## Fichier du projet
 
-- `Design 1.pdsprj` — projet à ouvrir avec Proteus 8 Professional.
+- `Design 1.pdsprj` â€” projet Ã  ouvrir avec Proteus 8 Professional.
 
 ## Captures
 
-### Schéma électrique
+### SchÃ©ma Ã©lectrique
 
-![Schéma du réseau de résistances](1.PNG)
+![SchÃ©ma du rÃ©seau de rÃ©sistances](Design%201/1.PNG)
 
-### Routage du circuit imprimé
+### Routage du circuit imprimÃ©
 
-![Routage du circuit imprimé](2.PNG)
+![Routage du circuit imprimÃ©](Design%201/2.PNG)
 
-### Vues 3D du circuit imprimé
+### Vues 3D du circuit imprimÃ©
 
-![Vue 3D du circuit imprimé](3.PNG)
+![Vue 3D du circuit imprimÃ©](Design%201/3.PNG)
 
-![Autre vue 3D du circuit imprimé](4.PNG)
+![Autre vue 3D du circuit imprimÃ©](Design%201/4.PNG)
