@@ -2,6 +2,8 @@
 
 Ce dépôt regroupe quatre projets réalisés avec Proteus 8 Professional. Chaque design est conservé dans sa propre branche afin de pouvoir le consulter indépendamment.
 
+![Aperçu des quatre designs](Designs-Overview.png)
+
 | Design | Description | Branche |
 | --- | --- | --- |
 | Design 1 | Réseau de résistances, schéma et réalisation du PCB | [design-1](https://github.com/Bejaoui-Fedi/CAD-and-PCB-Design/tree/design-1) |
